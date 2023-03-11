@@ -1,0 +1,33 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #484848;
+
+}
+
+:root {
+--background: #484848;
+--accent: #c06ff7;
+--base-font: 'Calibri', sans-serif;
+--heading-font: 'Cambria', serif;
+}
+
+.box {
+    flex: 1 1 300px;
+    border: 2px dashed #fff;
+    color: var(--accent);
+    padding: 0 15px 15px;
+    margin: 0 20px 40px;
+}
+
+h1 {
+
+}
+
+div {
+    display: block;
+}
+
+
+@media screen {
+    
+}
